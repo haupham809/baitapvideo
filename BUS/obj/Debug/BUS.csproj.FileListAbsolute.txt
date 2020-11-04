@@ -1,0 +1,32 @@
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\BUS.exe.config
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\BUS.exe
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\BUS.pdb
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\DAO.exe
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\DAO.pdb
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\DAO.exe.config
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\bai tap\BUS\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.exe
+C:\Users\hauph\Desktop\bai tap\BUS\obj\Debug\BUS.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.exe
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\BUS.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\BUS.exe
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\BUS.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\DAO.exe
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\DAO.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\DAO.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\BUS\obj\Debug\BUS.csproj.CopyComplete

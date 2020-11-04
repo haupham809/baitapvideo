@@ -1,0 +1,20 @@
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.Form1.resources
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.Properties.Resources.resources
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\bai tap\MODEL\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\bai tap\MODEL\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\bai tap\MODEL\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.exe
+C:\Users\hauph\Desktop\bai tap\MODEL\obj\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.Form1.resources
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.Properties.Resources.resources
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.exe
+C:\Users\hauph\Desktop\New folder\bai tap\MODEL\obj\Debug\MODEL.pdb

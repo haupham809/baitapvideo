@@ -1,0 +1,40 @@
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.Form1.resources
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.Properties.Resources.resources
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\baitapsline6.exe.config
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\baitapsline6.exe
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\baitapsline6.pdb
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\BUS.exe
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\DAO.exe
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\BUS.pdb
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\BUS.exe.config
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\DAO.pdb
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\DAO.exe.config
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\bai tap\baitapsline6\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.csproj.CopyComplete
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.exe
+C:\Users\hauph\Desktop\bai tap\baitapsline6\obj\Debug\baitapsline6.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\baitapsline6.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\baitapsline6.exe
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\baitapsline6.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\BUS.exe
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\DAO.exe
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\BUS.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\BUS.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\DAO.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\bin\Debug\DAO.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.Form1.resources
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.Properties.Resources.resources
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.csproj.CopyComplete
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.exe
+C:\Users\hauph\Desktop\New folder\bai tap\baitapsline6\obj\Debug\baitapsline6.pdb

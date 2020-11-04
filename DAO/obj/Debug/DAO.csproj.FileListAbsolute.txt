@@ -1,0 +1,30 @@
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\bai tap\DAO\bin\Debug\DAO.exe.config
+C:\Users\hauph\Desktop\bai tap\DAO\bin\Debug\DAO.exe
+C:\Users\hauph\Desktop\bai tap\DAO\bin\Debug\DAO.pdb
+C:\Users\hauph\Desktop\bai tap\DAO\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\bai tap\DAO\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\bai tap\DAO\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.exe
+C:\Users\hauph\Desktop\bai tap\DAO\obj\Debug\DAO.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.Properties.Resources.resources
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.csproj.GenerateResource.cache
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.exe
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\DAO.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\DAO.exe
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\DAO.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\MODEL.exe
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\MODEL.pdb
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\MODEL.exe.config
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\EntityFramework.dll
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\EntityFramework.xml
+C:\Users\hauph\Desktop\New folder\bai tap\DAO\bin\Debug\EntityFramework.SqlServer.xml
